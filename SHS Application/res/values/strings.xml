@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SHS App</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">SHS App</string>
+    <string name="title_activity_about_us">About Us</string>
+    <string name="title_activity_news">Newspaper</string>
+    <string name="grid_menu_image_description">Image Icon</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_directory">Directory</string>
+    <string name="title_activity_saved">Saved Contacts</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="contact_phone">Phone:</string>
+    <string name="contact_email">Email:</string>
+    <string name="contact_website">Website:</string>
+    <string name="hint">Search Directory</string>
+    <string name="select_day">Select Day</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_time">Set Date</string>
+    <string name="task_info">Info:</string>
+    <string name="task_submit">Create Task</string>
+    <string name="about_us_main">This app was developed by the Application Development club from Saratoga High School</string>
+    <string name="about_us_programmers">Programmers:</string>
+    <string name="about_us_special">Special Thanks To:</string>
+    <string name="about_us_list_programmers">Eugene Che, Matt Yee</string>
+    <string name="about_us_list_special">Emily Che</string>
+    <string name="about_us_mission">Our mission is to create an app that will help simplify the lives of students that attend Saratoga High School as well as learn about the awesomeness of new technology.
+	    The club is 100% student run, and we hope to spread interest in computer science while having fun along the way.</string>
+    <string name="about_us_sc">See The Source Code</string>
+    <string name="about_us_tips">Tell Us How To Improve</string>
+
+    <string-array name="days_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+
+    <string name="title_activity_annoucements">Annoucements</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_student_id">Student ID</string>
+    <string name="spotlight">Spotlight</string>
+    <string name="news">News</string>
+    <string name="sports">Sports</string>
+    <string name="opinion">Opinion</string>
+    <string name="columns">Columns</string>
+    <string name="features">Features</string>
+    <string name="cache">Cache</string>
+    <string name="about">About</string>
+    <string name="searching">Searching&#8230;</string>
+
+    <string-array name="array_activity_main_subcategories">
+        <item>Spotlight</item>
+        <item>News</item>
+        <item>Sports</item>
+        <item>Opinion</item>
+        <item>Columns</item>
+        <item>Features</item>
+    </string-array>
+
+    <string name="image_desc"></string>
+    <string name="is_cached">Cache</string>
+    <string name="load_more">Load More&#8230;</string>
+    <string name="load_cache">Load Cache</string>
+    <string name="nids">Establishing Connection&#8230;</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="share">Share</string>
+    <string name="title_activity_announcements_fragment">AnnouncementsFragment</string>
+    <string name="title_activity_announcement_fragment">AnnouncementFragment</string>
+    <string name="title_activity_sports_center">Sports Center</string>
+
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    style="@style/activityappearance" >
+<TextView 
+    android:textSize="30sp"
+    android:id="@+id/contact_name"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+   	android:layout_marginRight="20dp"
+   	android:layout_marginLeft="20dp"
+   	android:layout_marginTop="50dp"
+   	android:layout_gravity="center"
+   	android:gravity="center"
+   	android:layout_marginBottom="20dp"
+   	android:textColor="#A00000"/>
+        <GridView
+        android:id="@+id/grid_menu_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnWidth="64dp"
+        android:gravity="center"
+        android:horizontalSpacing="10dp"
+        android:listSelector="#00000000"
+        android:numColumns="2"
+        android:layout_margin="20dp"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="10dp" >
+        
+    </GridView>
+    
+<!--     <CheckBox -->
+<!--         android:id="@+id/contact_saved" -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:text="@string/save_contact" /> -->
+
+<!--     <TextView -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:paddingLeft="5dp" -->
+<!--         android:text="@string/contact_phone" -->
+<!--         android:textAppearance="?android:attr/textAppearanceMedium" /> -->
+
+<!--     <Button -->
+<!--         android:id="@+id/contact_phone" -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="wrap_content" /> -->
+
+<!--     <TextView -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:paddingLeft="5dp" -->
+<!--         android:text="@string/contact_email" -->
+<!--         android:textAppearance="?android:attr/textAppearanceMedium" /> -->
+
+<!--     <Button -->
+<!--         android:id="@+id/contact_email" -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         /> -->
+
+<!--      <TextView -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:paddingLeft="5dp" -->
+<!--         android:text="@string/contact_website" -->
+<!--         android:textAppearance="?android:attr/textAppearanceMedium" /> -->
+
+<!--     <Button -->
+<!--         android:id="@+id/contact_website" -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         /> -->
+
+</LinearLayout>
